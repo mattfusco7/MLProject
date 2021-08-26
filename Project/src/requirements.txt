@@ -1,0 +1,12 @@
+firebase-admin
+cryptography
+flask
+gunicorn
+pillow
+python-dotenv
+timeago
+numpy==1.18.5
+scipy==1.5.2
+torch==1.8.1
+torchvision==0.9.1
+https://storage.googleapis.com/model_storage_lazarus/fastai-lzr-1.0.61.tar.gz
